@@ -311,4 +311,4 @@ WITH growth_of_payment AS (
 SELECT *,
        ROUND(((year_2018 - year_2017) / year_2017), 4) * 100 AS growth_rate_2017_2018
 FROM growth_of_payment
-ORDER BY 5 DESC;
+ORDER BY 6 DESC;

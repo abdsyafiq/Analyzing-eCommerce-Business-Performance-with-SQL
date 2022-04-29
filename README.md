@@ -1,3 +1,13 @@
 # Analyzing eCommerce Business Performance with SQL
 
-Project ini (mini project) merupakan program tambahan dalam bootcamp [Rakamin Academy](https://www.rakamin.com/) berupa study case yang dirancang oleh expert dari perusahaan ternama dengan standar industri.
+This project (mini project) is an additional program in the [Rakamin Academy](https://www.rakamin.com/) bootcamp in the form of a study case designed by an expert from a well-known company with industry standards.
+
+# Introduction
+
+An eCommerce company that connects microbusinesses with their customers wants to know the company's performance in 2016 - 2018. As a member of the Data Analytics team, I was given the responsibility to analyze three aspects related to the company's business performance, such as:
+
+* **Customer Growth**
+* **Product Quality**
+* **Payment Type**
+
+The first step is to prepare the database and create a table from the given data using PostgreSQL. After that, I perform queries to display related data from the three aspects mentioned above.

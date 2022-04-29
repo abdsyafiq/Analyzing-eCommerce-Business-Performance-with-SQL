@@ -292,6 +292,7 @@ ORDER BY 2 DESC;
 
 WITH growth_of_payment AS (
 	SELECT payment_type,
+	       SUM(number_of_order) AS total_orders,
                SUM(CASE WHEN years = 2016 THEN number_of_order ELSE 0 END) AS year_2016,
 	       SUM(CASE WHEN years = 2017 THEN number_of_order ELSE 0 END) AS year_2017,
 	       SUM(CASE WHEN years = 2018 THEN number_of_order ELSE 0 END) AS year_2018

@@ -4,7 +4,7 @@ This project (mini project) is an additional program in the [Rakamin Academy](ht
 
 # Introduction
 
-An eCommerce company that connects microbusinesses with their customers wants to know the company's performance in 2016 - 2018. As a member of the Data Analytics team, I was given the responsibility to analyze three aspects related to the company's business performance, such as:
+An eCommerce company that connects micro-enterprises with their customers wants to know the company's performance in 2016 - 2018. As a member of the Data Analytics team, I was given the responsibility to analyze three aspects related to the company's business performance, such as:
 
 * **Customer Growth**
 * **Product Quality**

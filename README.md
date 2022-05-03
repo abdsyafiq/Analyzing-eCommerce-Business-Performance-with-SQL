@@ -10,6 +10,6 @@ An eCommerce company that connects micro-enterprises with their customers wants 
 * **Product Quality**
 * **Payment Type**
 
-The first step is to prepare the database and create a table from the given data using PostgreSQL. After that, I perform queries to display related data from the three aspects mentioned above.
+The first step is to prepare the database and create a table from the given data using PostgreSQL. After that, I perform queries to display related data from the three aspects mentioned above (full queries can be seen [here](https://github.com/abdsyafiq/Analyzing-eCommerce-Business-Performance-with-SQL/blob/master/Analyzing%20eCommerce%20Business%20Performance%20with%20SQL.sql)).
 
 The results of the analysis can be seen [here](https://github.com/abdsyafiq/Analyzing-eCommerce-Business-Performance-with-SQL/blob/master/Analyzing%20eCommerce%20Business%20Performance%20with%20SQL.pdf).
